@@ -1,0 +1,31 @@
+_repo: The-Anglo-Saxon-Century-and-the-Unification-of-the-English-Speaking-People_45111
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dos Passos, John R. (John Randolph)
+    aliases:
+    - Passos, John R. Dos (John Randolph)
+    - Dos Passos, John Randolph
+    birthdate: 1844
+    deathdate: 1917
+    gutenberg_agent_id: '43244'
+    url: http://www.gutenberg.org/2009/agents/43244
+description: ''
+gutenberg_issued: '2014-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Foreign relations -- United States'
+- !lcsh 'United States -- Foreign relations -- Great Britain'
+- !lcc 'D'
+- !lcsh 'Anglo-Saxon race'
+title: The Anglo-Saxon Century and the Unification of the English-Speaking People
+url: http://www.gutenberg.org/ebooks/45111
